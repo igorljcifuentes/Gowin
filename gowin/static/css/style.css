@@ -1,0 +1,91 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17-oct-2014, 19:56:52
+    Author     : LUIS
+*/
+body{
+    background-image: url(fondo.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 100%;
+    width: 100%;
+    padding-top: 20px;
+}
+.divs{
+    position: absolute;
+}
+#div1{
+    height: 50px;
+    width: 200px;
+    margin-left: 42.5%;
+}
+#div2{
+    height:130px;
+    width: 200px;
+    margin-left: 42.5%;
+    margin-top: 10%;
+}
+#div3{
+    height:50px;
+    width: 200px;
+    margin-left: 18%;
+    margin-top: 4%;
+}
+#div4{
+    height:80px;
+    width: 280px;
+    margin-left: 18%;
+    margin-top: 13%;
+}
+#div5{
+    height:65px;
+    width: 240px;
+    margin-left: 20%;
+    margin-top: 28%;
+}
+#div6{
+    height:50px;
+    width: 280px;
+    margin-left: 18%;
+    margin-top: 37%;
+}
+#div7{
+    height:50px;
+    width: 280px;
+    margin-left: 18%;
+    margin-top: 45%;
+}
+#div8{
+    height:50px;
+    width: 250px;
+    margin-left: 38%;
+    margin-top: 55%;
+}
+#div9{
+    height:80px;
+    width: 250px;
+    margin-left: 64%;
+    margin-top: 4%;
+}
+#div10{
+    height:90px;
+    width: 250px;
+    margin-left: 62%;
+    margin-top: 14%;
+}
+#div11{
+    height: 110px;
+    width: 250px;
+    margin-left: 60%;
+    margin-top: 26%;
+}
+#div12{
+    height: 220px;
+    width: 250px;
+    margin-left: 60%;
+    margin-top: 38%;
+}
